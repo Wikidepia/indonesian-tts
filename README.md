@@ -7,3 +7,7 @@ Model is available in [Releases](https://github.com/Wikidepia/indonesian-tts/rel
 ## Example
 
 https://user-images.githubusercontent.com/72781956/175180558-4933274f-b690-4106-bf21-76770bb967fc.mp4
+
+## Data
+
+- [Indonesian Azure TTS](https://depia.wiki/files/azure-tts.tar)
