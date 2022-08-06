@@ -1,6 +1,6 @@
-# Indonesian TTS
+# Indonesian TTS using Coqui TTS
 
-Indonesian TTS using Coqui TTS. Models are available in [Releases](https://github.com/Wikidepia/indonesian-tts/releases/) tab.
+Models are available in [Releases](https://github.com/Wikidepia/indonesian-tts/releases/) tab.
 
 **DO NOT USE FOR COMMERCIAL PURPOSES!**
 
