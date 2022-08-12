@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/72781956/183240420-a5d0d335-af4a-4563-
 
 `Wibowo (Audiobook)`:
 
-https://user-images.githubusercontent.com/72781956/183240434-fb0c3656-8673-453e-8900-f4df491e0d0b.mp4
+https://user-images.githubusercontent.com/72781956/184360026-c81ac336-c9f1-48ee-97fb-907d66b7f343.mp4
 
 ## How to use
 
