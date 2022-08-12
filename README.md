@@ -55,6 +55,14 @@ tts --text "saja səˈdanʔ ˈbərada di dʒaˈkarta." \
     --out_path output.wav
 ```
 
+You can get all speaker idx by using `--list_speaker_idxs`:
+
+```
+tts --model_path checkpoint.pth \
+    --config_path config.json \
+    --list_speaker_idxs
+```
+
 ## Data
 
 - [Indonesian Azure TTS](https://depia.wiki/files/azure-tts.tar)
